@@ -1,6 +1,6 @@
-# Copyright 2014 Mark Eschbach
+# PUBILC DOMAIN, no warrenties; expressed or implied.
 #
-#
+# Builds an up to date image of Ubuntu 14.04
 FROM ubuntu:14.04
 MAINTAINER Mark Eschbach <meschbach@gmail.com>
 #
